@@ -14,15 +14,8 @@
         "RGBLight.ts",
         "sendbuffer.asm",
         "README.md"
+
     ],
-    "testFiles": [],
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "blocksprj",
     "public": true,
-    "targetVersions": {
-        "target": "4.0.16",
-        "targetId": "microbit"
     }
 }
