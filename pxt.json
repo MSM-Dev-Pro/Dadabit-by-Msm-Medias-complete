@@ -1,12 +1,11 @@
 {
     "name": "dadabit-by-msm-medias-complete",
-    "version": "2.0.0",
-    "description": "Extension MSM Helper COMPLÈTE : MSM Helper + Dadabit + Wondercam - Tout-en-un pour Dadabit",
+    "version": "2.0.1",
+    "description": "Extension MSM Helper COMPLÈTE : MSM Helper + Dadabit (sans conflit WonderCam)",
     "license": "MIT",
     "author": "MSM MEDIAS",
     "dependencies": {
-        "core": "*",
-        "WonderCam": "github:Hiwonder/WonderCam"
+        "core": "*"
     },
     "files": [
         "main.ts",
