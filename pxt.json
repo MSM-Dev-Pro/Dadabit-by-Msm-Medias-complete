@@ -1,21 +1,19 @@
-{
-    "name": "dadabit-by-msm-medias-complete",
-    "version": "2.0.1",
-    "description": "Extension MSM Helper COMPLÈTE : MSM Helper + Dadabit (sans conflit WonderCam)",
-    "license": "MIT",
-    "author": "MSM MEDIAS",
-    "dependencies": {
+"name": "dadabit-by-msm-medias-complete",
+  "version": "2.1.0",
+  "description": "Extension MSM Helper COMPLÈTE : MSM Helper + Dadabit (WonderCam via dadabit)",
+  "license": "MIT",
+  "author": "MSM MEDIAS",
+  "dependencies": {
     "core": "*",
-    "microbit": "*",
-    "dadabit": "github:hiwonder/DaDabit"
+    "dadabit": "github:hiwonder/dadabit"
   },
-    "files": [
-        "main.ts",
-        "RGBLight.ts",
-        "sendbuffer.asm",
-        "README.md"
-
-    ],
-    "public": true,
-    
-}
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "testFiles": [],
+  "supportedTargets": [
+    "microbit"
+  ],
+  "preferredEditor": "blocksprj",
+  "public": true
