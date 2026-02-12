@@ -5,8 +5,10 @@
     "license": "MIT",
     "author": "MSM MEDIAS",
     "dependencies": {
-        "core": "*"
-    },
+    "core": "*",
+    "microbit": "*",
+    "dadabit": "github:hiwonder/DaDabit"
+  },
     "files": [
         "main.ts",
         "RGBLight.ts",
